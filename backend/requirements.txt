@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+openai>=1.0.0
+pydantic>=2.0.0
+python-multipart
+python-dotenv>=1.0.0
+pydub>=0.25.1
+# yt-dlp is already installed on the system
